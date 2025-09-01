@@ -3,9 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
     <title>Cours PHP</title>
 </head>
 <body>
-    <h1>Les bases en PHP</h1>
+    <header>
+    </header>
+    <footer></footer>
+    <script src="assets/js/script.js"></script>
 </body>
 </html>
